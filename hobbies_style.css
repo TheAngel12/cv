@@ -1,0 +1,22 @@
+img {
+    width:350px;
+    margin:3rem;
+}
+
+a img {
+    width: 130px;
+    margin:0px;
+}
+
+h2 {
+    margin-left:0.5em;
+    margin-bottom:1em;
+    margin-top: 2em;
+}
+
+li {
+    font-family:"Courier New";
+    font-weight: bold;
+    margin: 2rem;
+}
+
