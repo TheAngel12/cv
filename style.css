@@ -1,0 +1,49 @@
+body {
+    background-color: #feb9c8; /* #EAF6F6 #feb9c8 #fddede*/
+    font-family:"Courier New";
+}
+
+.profilePicture {
+    border-radius:100%;
+}
+
+hr {
+    /* background-color:white; */
+    border-color:#f34573;
+    border-style:dotted none none none;
+    border-width: 6px;
+    width:5%;
+    margin-top: 2.5em;
+    margin-bottom: 2.5em;
+}
+
+#Experience td {
+    padding-top: .5em;
+    padding-right: 1.5em;
+    padding-left: 1.5em;
+}
+
+img {
+    width:350px;
+    margin:3rem;
+}
+
+a img {
+    width: 130px;
+    margin:0px;
+}
+
+h2 {
+    margin-left:0.5em;
+    margin-bottom:1em;
+    margin-top: 2em;
+}
+
+li {
+    font-weight: bold;
+    margin: 2rem;
+}
+
+h1, h2, h3 {
+    color:#f5fbf1;
+}
